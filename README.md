@@ -1,4 +1,3 @@
-# nfc-kartvizit
 [index.html](https://github.com/user-attachments/files/27706366/index.html)
 <!DOCTYPE html>
 <html lang="tr">
